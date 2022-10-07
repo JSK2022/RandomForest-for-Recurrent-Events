@@ -1,2 +1,5 @@
 def test():
-    print('this is test')
+    print('')
+    
+def test2():
+    print("My name is kiwon Kim")
